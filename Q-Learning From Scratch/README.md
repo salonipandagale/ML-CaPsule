@@ -284,9 +284,21 @@ eval_env = gym.make('CliffWalking-v1', render_mode='rgb-space')
 
 * **Console logs:** Messages when the agent successfully reaches the goal.
 * **Plot:** Reward per episode curve.
-* **Render window:** Visualization of the final policy navigating the gridworld.
+* **GIF Output:** Visualization of the final policy navigating the gridworld.
 
 ---
+
+---
+
+## Screenshots
+<img width="616" height="476" alt="reward_episodes" src="https://github.com/user-attachments/assets/85c773da-50ab-4ed2-b3f6-8ecf72ba3d4d" />
+<img width="608" height="411" alt="car_mountain_result" src="https://github.com/user-attachments/assets/1628ef5c-2df2-47f2-adda-85af6946f66b" />
+<img width="734" height="248" alt="cliff_walking_output" src="https://github.com/user-attachments/assets/189fcaee-0c51-4952-9e50-a228ae4e13bd" />
+
+
+
+---
+
 
 ## Notes
 
